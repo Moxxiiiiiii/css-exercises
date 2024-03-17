@@ -1,15 +1,16 @@
-#Black-Box {
+.box {
     background-color: black;
     color: white;
     font-weight: bold;
 }
 
-#White-Box {
+.box2 {
     background-color: yellow;
 
 }
 
-.box {
+.box,
+.box2 {
     font-size: 28px;
     font-family: Arial, Helvetica, "Times New Roman" sans-serif;
 }
