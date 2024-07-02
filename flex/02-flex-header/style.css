@@ -5,6 +5,7 @@
   background: papayawhip;
   justify-content: space-between;
   align-items: center;
+  padding: 10px;
 }
 
 .logo {
@@ -12,7 +13,7 @@
   font-weight: 900;
   color: tomato;
   background: white;
-  padding: 4px 32px;
+  padding: 8px 30px;
 }
 
 ul {
